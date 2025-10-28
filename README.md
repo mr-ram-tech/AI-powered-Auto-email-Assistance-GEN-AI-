@@ -12,5 +12,4 @@ Flutter ↔ n8n ↔ Gmail API ↔ OpenAI — all stitched together in one smooth
 
 
 
-https://github.com/user-attachments/assets/380278b0-fd6d-4b79-a2ca-269df85bf7e2
 
