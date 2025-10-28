@@ -11,5 +11,6 @@ Flutter ↔ n8n ↔ Gmail API ↔ OpenAI — all stitched together in one smooth
 <img width="1920" height="1080" alt="openai-n8n-1" src="https://github.com/user-attachments/assets/46f29e07-38b4-458d-9926-7e1772a457be" />
 
 
-Uploading WhatsApp Video 2025-10-28 at 11.35.56 PM (1).mp4…
+
+https://github.com/user-attachments/assets/380278b0-fd6d-4b79-a2ca-269df85bf7e2
 
